@@ -1,0 +1,16 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #103a5a;
+  color: white;
+  padding: 0.8rem;
+  height: 50px;
+}
+
+.logo {
+  padding: 0px;
+}
+.navlinks {
+  display: flex;
+  justify-content: space-between;
+}
