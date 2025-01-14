@@ -1,7 +1,7 @@
 .Navbar {
   display: flex;
   justify-content: space-between;
-  background-color: #103a5a;
+  background-color: #036;
   color: white;
   padding: 0.8rem;
   height: 50px;
@@ -13,4 +13,5 @@
 .navlinks {
   display: flex;
   justify-content: space-between;
+  gap: 1.5rem;
 }
